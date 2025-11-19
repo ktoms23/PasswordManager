@@ -15,8 +15,6 @@ double columnar transposition cipher. The user must provide two keywords when sa
 decrypt the list. Additionally, there is  an Admin User that currently has a default login that is built into main. Admin's can print a list of all current users
 and access a masked list of their passwords in the manager. 
 
-### Current Bugs
-Need to call decrypt back. 
-
 ### Future/In-progress work
+Finish implementing Encrypt/Decrypt
 Adding API-based malware and leak checks using VirusTotal for stored Usernames and passwords for theory. 
